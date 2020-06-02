@@ -5,7 +5,7 @@ On the client-side, the Banzai GUI takes in information about the type and quant
 
 *Attached below are data tables as well as screenshots of a sample buy order of 1000 shares of Microsoft. 
 
-Microsoft:
+Microsoft:![](images/microsoftOrderBook.png)
 Netflix:
 
 
