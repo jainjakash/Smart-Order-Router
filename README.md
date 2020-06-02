@@ -5,39 +5,19 @@ On the client-side, the Banzai GUI takes in information about the type and quant
 
 *Attached below are data tables as well as screenshots of a sample buy order of 1000 shares of Microsoft. 
 
-Microsoft:
-Netflix:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Buy Order(FIX)
-
-
-
-
-
-
-
-
-
-
-
-Execution #1(FIX)
-
-Execution #2(FIX)
-
-Execution #3(FIX)
-
+## Microsoft:
+![](images/microsoftOrderBook.png)
+## Netflix:
+![](images/netflixOrderBook.png)
+## Sample Buy Order(1000 shares of Microsoft):
+![](images/sampleBuyOrderPart1.png)
+![](images/sampleBuyOrderPart2.png)
+## Buy Order(FIX):
+![](images/buyOrder(FIX).png)
+## Execution #1(FIX)
+![](images/execution1.png)
+## Execution #2(FIX)
+![](images/execution2.png)
+## Execution #3(FIX)
+![](images/execution3.png)
 
