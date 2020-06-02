@@ -9,15 +9,22 @@ Microsoft:
 ![](images/microsoftOrderBook.png)
 Netflix:
 ![](images/netflixOrderBook.png)
+
+
 Sample Buy Order(1000 shares of Microsoft):
 ![](images/sampleBuyOrderPart1.png)
 ![](images/sampleBuyOrderPart2.png)
+
+
 Buy Order(FIX):
 ![](images/buyOrder(FIX).png)
+
 Execution #1(FIX)
 ![](images/execution1.png)
+
 Execution #2(FIX)
 ![](images/execution2.png)
+
 Execution #3(FIX)
 ![](images/execution3.png)
 
