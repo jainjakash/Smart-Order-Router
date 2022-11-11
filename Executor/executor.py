@@ -98,7 +98,7 @@ class Application(fix.Application):
 
 
 		if msgType.getValue() == 'F':
-			print 'Cancel Request'
+			print ('Cancel Request')
 			symbol = fix.Symbol()
 			side = fix.Side()
 			clOrdID = fix.ClOrdID()
